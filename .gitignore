@@ -1,0 +1,14 @@
+# Laravel
+/src/vendor/
+/src/node_modules/
+/src/storage/*.key
+/src/storage/logs/
+/src/public/storage
+/src/.env
+.phpunit.result.cache
+
+# Docker
+/docker/mysql/data/
+/docker/mysql/logs/
+/docker/nginx/logs/
+/docker/php/log/
