@@ -1,0 +1,6 @@
+*
+!.gitignore
+
+# 追加（products配下は許可）
+!products/
+!products/**
